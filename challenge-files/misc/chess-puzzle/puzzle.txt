@@ -1,0 +1,4 @@
+FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+Find the mating sequence. The flag is hidden in the move list.
+Solution moves: e4 e5 Nf3 Nc6 Bb5 a6
+Flag (for solver): [REDACTED]

@@ -1,0 +1,1 @@
+{"n": 5917, "e": 17, "ciphertexts": [3813, 2830, 264, 1709, 2412, 5256, 2425, 363, 4096, 2425, 2412, 1661, 845], "hint": "Each byte encrypted separately with RSA. n is small - factor it (p,q are primes <100). Decrypt each number to get a byte, assemble to ASCII."}

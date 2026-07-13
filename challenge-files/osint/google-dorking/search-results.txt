@@ -1,0 +1,6 @@
+Google search: "site:target.com filetype:env"
+[1] https://target.com/.env  -> DB_PASSWORD=sup3rsecret ...
+[2] https://target.com/robots.txt
+[3] https://target.com/admin_panel_hidden/  <- interesting
+[4] https://target.com/blog/post-1
+Find the non-standard admin path.

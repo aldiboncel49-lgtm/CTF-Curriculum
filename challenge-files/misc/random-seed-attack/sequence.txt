@@ -1,0 +1,13 @@
+Random sequence (MT19937, unknown seed):
+647760
+970494
+559169
+744363
+383619
+598714
+614242
+767447
+173735
+812855
+
+The flag contains the NEXT value after this sequence: [REDACTED]

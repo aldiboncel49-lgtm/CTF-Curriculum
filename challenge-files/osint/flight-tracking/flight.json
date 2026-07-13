@@ -1,0 +1,7 @@
+{
+  "flight": "UA123",
+  "origin": "JFK",
+  "destination": "SFO",
+  "tail": "N12345",
+  "diverted": false
+}

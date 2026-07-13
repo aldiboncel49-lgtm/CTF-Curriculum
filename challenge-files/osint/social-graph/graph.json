@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    "alice",
+    "bob",
+    "crypto_king",
+    "dave",
+    "eve"
+  ],
+  "edges": [
+    [
+      "alice",
+      "bob"
+    ],
+    [
+      "bob",
+      "crypto_king"
+    ],
+    [
+      "dave",
+      "crypto_king"
+    ],
+    [
+      "eve",
+      "crypto_king"
+    ],
+    [
+      "crypto_king",
+      "alice"
+    ]
+  ]
+}

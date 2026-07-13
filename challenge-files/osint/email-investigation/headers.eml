@@ -1,0 +1,8 @@
+Received: from mail.criminalsrv.ru (criminalsrv.ru [185.22.13.9])
+        by mx.victim.com with ESMTP id ABC123
+Received: from localhost (localhost [127.0.0.1])
+        by mail.criminalsrv.ru with SMTP
+From: ceo@victim.com
+To: finance@victim.com
+Subject: Urgent wire transfer
+Return-Path: ceo@victim.com

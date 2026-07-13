@@ -1,0 +1,3 @@
+api_key=AIzaSyD3ADM0B3F00D
+mob_key=MOBILE_HARDCODED_DECOY
+endpoint=https://api.app.com

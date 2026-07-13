@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head><title>Admin Login</title></head>
+<body>
+<h1>Admin Panel Login</h1>
+<form id="login">
+  <input type="text" id="username" placeholder="Username">
+  <input type="password" id="password" placeholder="Password">
+  <button type="submit">Login</button>
+</form>
+<div id="result"></div>
+<script>
+document.getElementById('login').addEventListener('submit', function(e) {
+  e.preventDefault();
+  var u = document.getElementById('username').value;
+  var p = document.getElementById('password').value;
+  // TODO: Replace this with real auth
+  if (u === "admin" && p === "password123") {
+    document.getElementById('result').innerHTML = '<h2>Welcome admin!</h2><p>Flag: [REDACTED]</p>';
+  } else {
+    document.getElementById('result').innerHTML = '<p style="color:red">Invalid credentials</p>';
+  }
+});
+</script>
+<!-- Hint: The credentials might be guessable -->
+</body>
+</html>

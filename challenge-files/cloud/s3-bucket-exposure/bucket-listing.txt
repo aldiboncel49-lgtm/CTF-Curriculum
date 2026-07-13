@@ -1,0 +1,3 @@
+public/backup.zip
+public/secret.txt  <- world-readable
+public/index.html

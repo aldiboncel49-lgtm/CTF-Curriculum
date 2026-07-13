@@ -1,0 +1,6 @@
+{
+  "Principal": {
+    "AWS": "*"
+  },
+  "Action": "sts:AssumeRole"
+}

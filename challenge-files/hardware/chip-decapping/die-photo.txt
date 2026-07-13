@@ -1,0 +1,1 @@
+Die markings: lot 0xA1, stepping B2. Fuse bank 3 = 0x77. ROM label: KEYROM

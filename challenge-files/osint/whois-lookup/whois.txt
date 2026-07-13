@@ -1,0 +1,7 @@
+Domain Name: secretcorp.io
+Registry Domain ID: REDACTED
+Registrar: NameCheap
+Creation Date: 2019-03-14
+Registrant Email: admin@secretcorp.io   <-- historical record (redacted in current)
+Admin Email: admin@secretcorp.io
+Name Server: ns1.secretcorp.io

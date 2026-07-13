@@ -1,0 +1,4 @@
+Triple-encoded message:
+VVRGU1IyVXlTVEJqZWsweVRrWTRlbUp0VFhkYVJFWjFXakU1ZFUxSVVtWk5NalZxWTI1c2QyUkVSWGRpYmpBOQ==
+
+Hint: It's been encoded 3 times with Base64.

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head><title>Normal Page</title></head>
+<body>
+<h1>This page looks normal...</h1>
+<p>But the server sends interesting headers.</p>
+</body>
+<!-- 
+This file needs a server to send headers.
+Deploy with: python3 -m http.server 8080 --bind 127.0.0.1
+Then check response headers with curl -I or browser devtools
+The flag is in a custom header: X-Flag
+-->
+</html>

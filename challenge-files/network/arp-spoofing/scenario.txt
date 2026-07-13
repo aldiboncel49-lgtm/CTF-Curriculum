@@ -1,0 +1,3 @@
+Victim 10.0.0.5 talks to gateway 10.0.0.1.
+Attacker 10.0.0.99 poisons ARP.
+Intercepted: HTTP cookie session=abc123

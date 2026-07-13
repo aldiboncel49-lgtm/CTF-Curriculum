@@ -1,0 +1,4 @@
+Number: +1-555-0199
+Carrier lookup: Twilio (VoIP)
+Owner: registered to "Operation Phantom"
+Original assignment: +1-555-0199

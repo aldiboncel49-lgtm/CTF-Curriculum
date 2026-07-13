@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><body>
+<h1>XSS Playground</h1>
+<div id="output"></div>
+<script>
+// Vulnerable: user input reflected directly into DOM
+const params = new URLSearchParams(location.search);
+const q = params.get('q') || '';
+document.getElementById('output').innerHTML = '<p>You searched: ' + q + '</p>';
+</script>
+<!-- Flag hidden in comment for solver reference: [REDACTED] -->
+</body></html>
